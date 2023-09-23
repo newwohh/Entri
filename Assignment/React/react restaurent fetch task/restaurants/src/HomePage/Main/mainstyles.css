@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Tangerine:wght@700&display=swap");
+
+.intro-text {
+  height: 950px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  line-height: 0px;
+  /* border: 1px black solid; */
+}
+
+.intro-text h1 {
+  font-family: fantasy;
+  font-size: 50px;
+  color: thistle;
+}
+.intro-text h2 {
+  color: midnightblue;
+  font-size: 90px;
+  font-family: "Tangerine";
+  letter-spacing: 20px;
+}

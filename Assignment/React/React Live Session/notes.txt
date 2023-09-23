@@ -1,0 +1,6 @@
+DOM
+Virtual DOM(react creates a copy of DOM)
+Reconcilation
+diffing
+library vs frameworks
+state

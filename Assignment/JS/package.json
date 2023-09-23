@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "name": "entri",
+  "version": "1.0.0",
+  "main": "scripts.js",
+  "scripts": {
+    "start": "node src/start.js"
+  },
+  "type": "module",
+  "author": "nevin raju",
+  "license": "ISC",
+  "description": ""
+}

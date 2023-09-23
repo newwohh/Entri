@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Sacramento&family=Tangerine:wght@700&display=swap");
+
+.a {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.b {
+  border: 20px solid #f2d388;
+}
+
+.q {
+  font-family: "Sacramento";
+}
